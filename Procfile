@@ -1,1 +1,1 @@
-web: python SEERAT-BRAND.py
+web: python SEERAT-RULEX.py
